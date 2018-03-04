@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hcodebr": "vendor\\hcodebr\\php-classes\\src"
+            "DTS\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
